@@ -1,3 +1,4 @@
 깃 테스트
 Commit NO.1
 Reset 1
+Reset 2
