@@ -1,4 +1,3 @@
 깃 테스트
 Commit NO.1
 Commit NO.2
-Commit NO.3
